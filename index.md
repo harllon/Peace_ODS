@@ -1,6 +1,6 @@
 ## BEM VINDO AO NOSSO WEBSITE
 
-
+Escolha um estado para conferir dados!
 
 
 
@@ -32,7 +32,8 @@
 
 
 
-[about](https://harllon.github.io/PlatformGame/) [O que queremos](https://harllon.github.io/PlatformGame/)
+[about](https://harllon.github.io/PlatformGame/) 
+[home](https://harllon.github.io/PlatformGame/)
 
 
 
